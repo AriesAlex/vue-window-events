@@ -1,0 +1,15 @@
+{
+  "name": "vue-window-events",
+  "version": "1.0.0",
+  "description": "Handling window events in Vue 2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ArieX",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
